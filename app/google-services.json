@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666623271372",
+    "firebase_url": "https://random-video-call-d13b4-default-rtdb.firebaseio.com",
+    "project_id": "random-video-call-d13b4",
+    "storage_bucket": "random-video-call-d13b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666623271372:android:94bbdb869b4d171f843d69",
+        "android_client_info": {
+          "package_name": "com.example.faltu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666623271372-bghbldgfdmnoi4j1s4gg381jfvv63p8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faltu",
+            "certificate_hash": "652579d6075ff1f51b2534eb4b089141ff44d304"
+          }
+        },
+        {
+          "client_id": "666623271372-l7p4as6cd6r7e6m5rlge3qme95asf9pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHywRHfpU2oUrGgw_5jFJuvasnRaGQGIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666623271372-cpjeh5k19fvjaijnj9kh85pajihnf98k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
